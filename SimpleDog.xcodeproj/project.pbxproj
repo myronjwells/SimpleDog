@@ -14,6 +14,7 @@
 		CF603A6C2336B096003C4160 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF603A6A2336B096003C4160 /* LaunchScreen.storyboard */; };
 		CF603A772336B62D003C4160 /* DogApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF603A762336B62D003C4160 /* DogApi.swift */; };
 		CF603A792337E12E003C4160 /* DogImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF603A782337E12E003C4160 /* DogImage.swift */; };
+		CFEC95C92341D5360053DD2F /* BreedsListResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFEC95C82341D5360053DD2F /* BreedsListResponse.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		CF603A6D2336B096003C4160 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CF603A762336B62D003C4160 /* DogApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogApi.swift; sourceTree = "<group>"; };
 		CF603A782337E12E003C4160 /* DogImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogImage.swift; sourceTree = "<group>"; };
+		CFEC95C82341D5360053DD2F /* BreedsListResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreedsListResponse.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				CF603A762336B62D003C4160 /* DogApi.swift */,
 				CF603A782337E12E003C4160 /* DogImage.swift */,
+				CFEC95C82341D5360053DD2F /* BreedsListResponse.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				CF603A772336B62D003C4160 /* DogApi.swift in Sources */,
 				CF603A642336B094003C4160 /* ViewController.swift in Sources */,
+				CFEC95C92341D5360053DD2F /* BreedsListResponse.swift in Sources */,
 				CF603A792337E12E003C4160 /* DogImage.swift in Sources */,
 				CF603A622336B094003C4160 /* AppDelegate.swift in Sources */,
 			);
